@@ -1,4 +1,4 @@
-Hi, I’m 
+Hello World 
 - 👀 I’m interested in Woman
 - 🌱 I’m currently learning how to fix data on ios
 - 💞️ I’m looking to collaborate on building a app for ios
